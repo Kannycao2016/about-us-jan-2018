@@ -1,0 +1,7 @@
+Here's some information about Paul
+
+Likes: 
+- Creating small files
+
+Dislikes: 
+- Committing directly to master
